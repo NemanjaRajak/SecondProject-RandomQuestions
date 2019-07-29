@@ -1,0 +1,122 @@
+body, html{
+   height: 100%;
+   
+   
+   }
+   
+   html{
+     scroll-behavior: smooth;
+   }
+
+.bg {
+   /* The image used */
+   position: relative;
+   background-image: url(images/alone.jpg);
+ 
+   /* Half height */
+   height: 60%;
+   
+ 
+   /* Center and scale the image nicely */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+
+.d-flex{ 
+border: 20px solid #464646;
+margin-top: 25%;
+background-color: white;
+width: 40%;
+margin-left: 600px;
+
+
+}
+
+h4 {
+color: #2c3e50; 
+font-size: 2.0rem;
+text-transform: uppercase;
+letter-spacing: 2px;
+font-family: 'Permanent Marker', cursive;
+}
+
+
+
+
+
+.klasa{
+   
+   position: absolute; 
+   top: 350px; 
+   left: 100px; 
+   width: 100%; 
+   color: white;
+   font-size: 20px;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+   padding: 10px; 
+   font-weight: bold;
+   font-family: 'Permanent Marker', cursive;
+
+  }
+
+p{
+   background: linear-gradient(180deg, rgb(187, 216, 255),rgb(227, 230, 255));
+   max-width: 600px;
+   width: 100%;
+   background-color: rgb(197, 229, 255);
+   border-spacing: 5px;
+   padding: 5px;
+   border-style: solid;
+   border-width: 1px;
+   border-color: rgb(3, 107, 243);
+   font-size: 1.15em;
+   border-radius: 2px;
+   box-shadow: 2px 2px 2px rgb(3, 99, 243);
+   font-family: 'Permanent Marker', cursive;
+}
+
+.one{
+
+
+   padding: 100px;
+   margin-left: 600px;
+}
+
+#heading{
+
+   
+   padding-bottom: 30px;
+   margin-left: 200px;
+   
+
+   
+
+}
+
+#paragraf{
+   
+   
+   margin-left: 60px;
+   font-family: 'Permanent Marker', cursive;
+   
+
+}
+
+.btn{
+
+   margin-left: 280px;
+   font-family: 'Permanent Marker', cursive;
+
+}
+
+
+
+
+
+
+
+  
+  
